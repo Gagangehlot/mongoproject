@@ -1,1 +1,6 @@
-﻿
+﻿Disease name ,Risk Factor Type,Risk factor,Indicator,Data Source,Prevalence Rate
+Cardiovascular Disease1,Behavioral,Smoking,Number of cigarettes/day,National Health Survey,15% of adults are smokers
+Cardiovascular Disease2,Behavioral,Physical inactivity,Hours of sedentary behavior/day,CDC behavioral Risk Factor Surveillance System,25% of adults are physically inactive
+Cardiovascular Disease3,Environmental,Air pollution,Particulate matter  concentration,Environmental Protection Agency,PM2.5 concentration exceeds WHO guidelines in urban aresas
+Type 2 Daibetes Mellitus,Behavioral,Unhealthy diet,Daily intake of sugar(grams),National Health and Nutrition Examination Survey,10% of adults consume >50g/day of added sugars
+Lung Cancer,Environmental,Radon exposure,Radon concentration,Environmental Protection Agency,21000 lung cancer deaths annunally attributed to radon exposure
